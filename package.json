@@ -1,0 +1,12 @@
+{
+  "name": "control_work",
+  "version": "1.0.0",
+  "description": "control work for Beetroot Academy",
+  "main": "index.js",
+  "scripts": {
+     "start": "browser-sync start -s -w -f=\"./index.html\" --no-notify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
